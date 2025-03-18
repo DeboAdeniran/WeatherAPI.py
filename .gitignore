@@ -1,0 +1,16 @@
+# Ignore environment variables and API keys
+.env
+
+# Ignore Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment
+venv/
+env/
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.swp
